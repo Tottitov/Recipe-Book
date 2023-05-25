@@ -6,7 +6,7 @@ output:
 ---
 
 ## Bo Kho
-Bò Kho is a Vietnamese beef stew that is typically made with beef, carrots, onions, lemongrass, star anise, and other spices. It is a hearty and flavorful dish that is often served with French bread or rice noodles. Bò kho has a rich, slightly sweet and savory broth that is infused with spices and slow-cooked until the meat and vegetables are tender. It is a popular comfort food in Vietnam and can be found in many Vietnamese restaurants around the world.
+Bo Kho is a Vietnamese beef stew known for its rich and aromatic flavors. It features tender beef chunks, carrots, onions, lemongrass, and warming spices like star anise, ginger, and garlic, slow-cooked in a flavorful broth until the meat is melt-in-your-mouth tender.
 
 ### Ingredients
 - 1.5 lbs of tendon
@@ -86,7 +86,8 @@ Goi Ga is a Vietnamese chicken salad made with poached chicken, shredded vegetab
 5. Sprinkle the chopped peanuts or fried shallots (if using) over the top of the salad just before serving.
 6. Serve the salad immediately as a light meal or as part of a larger Vietnamese meal. Enjoy!
 
-## Red Salsa
+## Red Guajillo Salsa
+Red Guajillo Salsa is a vibrant and flavorful Mexican salsa made with rehydrated guajillo chilies, tomatoes, garlic, onions, and spices. It offers a slightly smoky and tangy taste with a hint of heat, perfect for adding a burst of flavor to tacos, grilled meats, or as a dipping sauce.
 
 ### Ingredients
 - 6 dried guajillo chillis: washed and soaked in water to rehydrate
@@ -105,6 +106,7 @@ Goi Ga is a Vietnamese chicken salad made with poached chicken, shredded vegetab
 2. Blend with cilantro and season to taste
 
 ## Refried Bean Dip
+Refried bean dip is a flavorful and creamy dip made primarily with refried beans as the base ingredient. It is often served as an appetizer or party dip and is popular in Mexican cuisine.
 
 ### Ingredients
 - 1 can refried beans
@@ -126,36 +128,3 @@ Goi Ga is a Vietnamese chicken salad made with poached chicken, shredded vegetab
 ### Instructions
 1. Mix ingredients together, pour into baking tray, top with cheese
 2. Bake 400 for 15 mins
-
-## Pho Ga (Vietnamese Chicken Noodle Soup)
-Pho Ga is a popular Vietnamese dish that consists of a flavorful chicken broth, tender shredded chicken, and rice noodles.
-
-### Ingredients
-- 2 lbs of chicken (a whole chicken or bone-in chicken parts)
-- 6 cups of chicken broth
-- 4 cups of water
-- 1 onion, halved
-- 3-4-inch piece of ginger, sliced
-- 2-3 star anise
-- 3-4 cloves
-- 2 cinnamon sticks
-- 1 tablespoon of sugar
-- 1 tablespoon of fish sauce
-- 8 oz of dried rice noodles
-- Fresh herbs (Thai basil, cilantro, mint)
-- Bean sprouts
-- Lime wedges
-- Sliced chili peppers (optional)
-
-### Instructions
-1. In a large pot, char the onion and ginger over an open flame or under the broiler until slightly blackened. This helps to enhance the flavor of the broth.
-2. In the same pot, add chicken broth, water, star anise, cloves, cinnamon sticks, and sugar. Bring to a boil.
-3. Add the chicken to the pot and simmer for about 30-40 minutes until the chicken is cooked through. Skim off any impurities that float to the surface.
-4. Once the chicken is cooked, remove it from the pot and let it cool slightly. Then shred the meat into bite-sized pieces and set aside. Discard the skin and bones.
-5. Strain the broth to remove the spices and any other impurities.
-6. Season the broth with fish sauce, adjusting the amount to taste.
-7. Cook the rice noodles according to the package instructions.
-8. To assemble the soup, divide the cooked rice noodles among serving bowls. Add the shredded chicken on top.
-9. Ladle the hot broth over the noodles and chicken, making sure to cover them completely.
-10. Serve the Pho Ga with a plate of fresh herbs, bean sprouts, lime wedges, and sliced chili peppers on the side.
-11. Each person can customize their soup by adding herbs, sprouts, lime juice, and chili peppers according to their taste. Enjoy!
