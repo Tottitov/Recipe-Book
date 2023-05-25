@@ -4,7 +4,7 @@ output:
   pdf_document:
     toc: true
 ---
-
+\newpage
 ## Bo Kho
 > Vietnamese beef stew known for its rich and aromatic flavors. It features tender beef chunks, carrots, onions, lemongrass, and warming spices like star anise, ginger, and garlic, slow-cooked in a flavorful broth until the meat is melt-in-your-mouth tender.
 
@@ -41,6 +41,7 @@ output:
 12. Roughly 30 minutes before meat is tender, add in fish sauce.
 13. Adjust taste to preferred peference. Enjoy!
 
+\newpage
 ## Tilapia Fried Fish Paste
 > "Cha Ca" in Vietnamese, is a popular dish that is made by marinating bite-sized pieces of tilapia fish in fish sauce, garlic, and other spices. The marinated fish is then pan-fried until crispy and served with rice noodles, herbs, and a variety of accompaniments.
 
@@ -63,6 +64,7 @@ output:
 6. Cover hand with oil and shape paste into desired shape.
 7. Fry until golden brown. Enjoy!
 
+\newpage
 ## Goi Ga
 > Vietnamese chicken salad made with poached chicken, shredded vegetables, herbs, and a fish sauce-based dressing. It is a refreshing and flavorful dish commonly eaten as a light meal, and can be served on its own or as part of a larger Vietnamese meal.
 
@@ -86,6 +88,7 @@ output:
 5. Sprinkle the chopped peanuts or fried shallots (if using) over the top of the salad just before serving.
 6. Serve the salad immediately as a light meal or as part of a larger Vietnamese meal. Enjoy!
 
+\newpage
 ## Red Guajillo Salsa
 > A vibrant and flavorful Mexican salsa made with rehydrated guajillo chilies, tomatoes, garlic, onions, and spices. It offers a slightly smoky and tangy taste with a hint of heat, perfect for adding a burst of flavor to tacos, grilled meats, or as a dipping sauce.
 
@@ -105,6 +108,7 @@ output:
 1. Boil/grill/or seared with oil: guajillo, chili, tomatoes, jalapeños, garlic, onion
 2. Blend with cilantro and season to taste
 
+\newpage
 ## Refried Bean Dip
 > A flavorful and creamy dip made primarily with refried beans as the base ingredient. It is often served as an appetizer or party dip and is popular in Mexican cuisine.
 
@@ -129,6 +133,7 @@ output:
 1. Mix ingredients together, pour into baking tray, top with cheese
 2. Bake 400 for 15 mins
 
+\newpage
 ## Tony's Tuna Sandwich
 > Made by Tony Nguyen, often created when he is hungry and doesn't require cooking. Good late night snack.
 
