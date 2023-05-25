@@ -6,7 +6,7 @@ output:
 ---
 
 ## Bo Kho
-Bo Kho is a Vietnamese beef stew known for its rich and aromatic flavors. It features tender beef chunks, carrots, onions, lemongrass, and warming spices like star anise, ginger, and garlic, slow-cooked in a flavorful broth until the meat is melt-in-your-mouth tender.
+> Vietnamese beef stew known for its rich and aromatic flavors. It features tender beef chunks, carrots, onions, lemongrass, and warming spices like star anise, ginger, and garlic, slow-cooked in a flavorful broth until the meat is melt-in-your-mouth tender.
 
 ### Ingredients
 - 1.5 lbs of tendon
@@ -42,7 +42,7 @@ Bo Kho is a Vietnamese beef stew known for its rich and aromatic flavors. It fea
 13. Adjust taste to preferred peference. Enjoy!
 
 ## Tilapia Fried Fish Paste
-Vietnamese tilapia fried fish paste, or "cha ca" in Vietnamese, is a popular dish that is made by marinating bite-sized pieces of tilapia fish in fish sauce, garlic, and other spices. The marinated fish is then pan-fried until crispy and served with rice noodles, herbs, and a variety of accompaniments.
+> "Cha Ca" in Vietnamese, is a popular dish that is made by marinating bite-sized pieces of tilapia fish in fish sauce, garlic, and other spices. The marinated fish is then pan-fried until crispy and served with rice noodles, herbs, and a variety of accompaniments.
 
 ### Ingredients
 - 3 filets of tilapia fish; thawed, washed, and dried
@@ -64,7 +64,7 @@ Vietnamese tilapia fried fish paste, or "cha ca" in Vietnamese, is a popular dis
 7. Fry until golden brown. Enjoy!
 
 ## Goi Ga
-Goi Ga is a Vietnamese chicken salad made with poached chicken, shredded vegetables, herbs, and a fish sauce-based dressing. It is a refreshing and flavorful dish commonly eaten as a light meal, and can be served on its own or as part of a larger Vietnamese meal.
+> Vietnamese chicken salad made with poached chicken, shredded vegetables, herbs, and a fish sauce-based dressing. It is a refreshing and flavorful dish commonly eaten as a light meal, and can be served on its own or as part of a larger Vietnamese meal.
 
 ### Ingredients
 - 2 cup poached chicken, shredded or thinly sliced
@@ -87,7 +87,7 @@ Goi Ga is a Vietnamese chicken salad made with poached chicken, shredded vegetab
 6. Serve the salad immediately as a light meal or as part of a larger Vietnamese meal. Enjoy!
 
 ## Red Guajillo Salsa
-Red Guajillo Salsa is a vibrant and flavorful Mexican salsa made with rehydrated guajillo chilies, tomatoes, garlic, onions, and spices. It offers a slightly smoky and tangy taste with a hint of heat, perfect for adding a burst of flavor to tacos, grilled meats, or as a dipping sauce.
+> A vibrant and flavorful Mexican salsa made with rehydrated guajillo chilies, tomatoes, garlic, onions, and spices. It offers a slightly smoky and tangy taste with a hint of heat, perfect for adding a burst of flavor to tacos, grilled meats, or as a dipping sauce.
 
 ### Ingredients
 - 6 dried guajillo chillis: washed and soaked in water to rehydrate
@@ -106,7 +106,7 @@ Red Guajillo Salsa is a vibrant and flavorful Mexican salsa made with rehydrated
 2. Blend with cilantro and season to taste
 
 ## Refried Bean Dip
-Refried bean dip is a flavorful and creamy dip made primarily with refried beans as the base ingredient. It is often served as an appetizer or party dip and is popular in Mexican cuisine.
+> A flavorful and creamy dip made primarily with refried beans as the base ingredient. It is often served as an appetizer or party dip and is popular in Mexican cuisine.
 
 ### Ingredients
 - 1 can refried beans
@@ -130,7 +130,7 @@ Refried bean dip is a flavorful and creamy dip made primarily with refried beans
 2. Bake 400 for 15 mins
 
 ## Tony's Tuna Sandwich
-Tuna sandwich made by Tony Nguyen, often created when he is hungry and doesn't require cooking. Good late night snack.
+> Made by Tony Nguyen, often created when he is hungry and doesn't require cooking. Good late night snack.
 
 ### Ingredients
 - Sour Wheat Bread (Bought from Costco)
