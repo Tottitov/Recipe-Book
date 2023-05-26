@@ -1,13 +1,52 @@
 ---
 title: Recipe Book
-author: Friends & Family
+author: Family & Friends
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output:
   pdf_document:
     toc: true
 ---
+
 \newpage
 # Nhu's Recipes
+## Tuna Poke
+> Tuna poke is a popular dish that originated in Hawaii, featuring fresh and cubed sushi-grade tuna marinated in a flavorful mixture of soy sauce, sesame oil, and other seasonings. The combination of tender tuna, crisp vegetables, and savory marinade creates a delicious and refreshing dish, perfect as an appetizer or light meal.
+
+### Ingredients
+- Sushi Grade Tuna (depending on desired quantity)
+- Soy Sauce (to taste)
+- Sesame Oil (to taste)
+- Green Onion (to taste)
+- Jalapeno (to taste)
+- Garlic Powder (to taste)
+- Black Pepper (to taste)
+- Sugar (pinch, to taste)
+- Salt (to taste)
+- Optional:
+  - Korean Pepper Flakes (to taste)
+  - Shallots (to taste)
+
+### Steps
+1. Thaw the tuna and press between paper towels to remove any fishy smell.
+2. Cube the tuna fillets into bite-sized pieces.
+3. Thinly slice the green onion.
+4. Deseed and cube the jalapeno.
+5. Place the cubed tuna in a bowl and add the following ingredients, adjusting to taste:
+   - Soy Sauce
+   - Sesame Oil
+   - Green Onion slices
+   - Jalapeno cubes
+   - Garlic Powder
+   - Black Pepper
+   - Sugar (pinch)
+   - Salt
+   - Optional:
+     - Korean Pepper Flakes
+     - Shallots
+6. Mix everything together.
+7. Taste and adjust the ingredients above as needed. Enjoy!
+
+\newpage
 ## Bo Kho
 > Vietnamese beef stew known for its rich and aromatic flavors. It features tender beef chunks, carrots, onions, lemongrass, and warming spices like star anise, ginger, and garlic, slow-cooked in a flavorful broth until the meat is melt-in-your-mouth tender.
 
@@ -193,6 +232,24 @@ output:
 7. Finish off with the other toasted slice of bread and cut into triagles. Enjoy!
 
 \newpage
+## Medium Rare Steak
+> A perfectly cooked medium-rare steak is a tender and juicy delight. Seasoned with salt and black pepper, it offers a mouthwatering balance of flavors and a pink, slightly warm center that's sure to satisfy steak enthusiasts.
+
+### Ingredients:
+- 1 medium-sized steak (such as ribeye, striploin, or tenderloin)
+- Salt
+- Black pepper
+
+### Instructions:
+1. Take the steak out of the refrigerator and let it come to room temperature for about 30 minutes.
+2. Preheat your grill, stovetop skillet, or broiler to high heat.
+3. Season both sides of the steak generously with salt and black pepper.
+4. Place the steak on the grill, skillet, or under the broiler and cook for approximately 4-5 minutes on each side for a 1-inch thick steak, or adjust the cooking time according to the thickness of your steak.
+5. For a medium-rare steak, the temperature should read around 130-135°F (55-57°C).
+6. Remove the steak from the heat and let it rest for 5-10 minutes to allow the juices to redistribute.
+7. Slice the steak against the grain and serve. Enjoy!
+
+\newpage
 ## Chicken Alfredo Pasta
 > A classic Italian dish featuring tender chicken pieces and fettuccine pasta tossed in a creamy Alfredo sauce. This recipe is rich, comforting, and perfect for pasta lovers.
 
@@ -274,7 +331,7 @@ output:
 12. Enjoy your delicious Banh Mi sandwich!
 
 \newpage
-## Family Bun Bo Hue
+## Bun Bo Hue
 > A spicy and aromatic Vietnamese noodle soup originating from the city of Hue. It features tender beef, pork, and rice noodles in a flavorful broth infused with lemongrass, shrimp paste, and chili oil.
 
 ### Ingredients
@@ -330,6 +387,29 @@ output:
 6. Enjoy the dip with your favorite veggies!
 
 \newpage
+# Sandy's Recipes
+## Crab Salad
+> Crab Salad is a refreshing and flavorful dish made with succulent crab meat, mayonnaise, and a variety of seasonings. It can be enjoyed as a light and satisfying appetizer or served as a filling in sandwiches or wraps for a tasty meal option.
+
+### Ingredients
+- Imitation Crab Flake (desired amount)
+  - Note: Stick style imitation crab is also suitable
+- Kewpie Mayo (to taste)
+- Sriracha (to taste)
+- Black Pepper (to taste)
+- Crackers or Chips
+- Optional:
+  - Sriracha Mayo
+  - Green Onion
+
+### Instructions
+1. Chop the imitation crab into small, scoopable chunks. If using stick style imitation crab, hand shred it.
+2. In a bowl, combine the chopped imitation crab, Kewpie Mayo, and Sriracha. Mix well and add black pepper to taste.
+3. Adjust the flavors by repeating step 2 until you achieve your desired taste.
+4. Optionally, garnish with green onions.
+5. Serve the Quick & Easy Crab Salad with chips or crackers for a delightful snack. Enjoy!
+
+\newpage
 # Di ba's Recipes
 ## Papaya Salad
 > Papaya Salad with Shrimp and Squid is a refreshing and vibrant dish that combines the crispiness of green papaya with tender seafood. The combination of tangy flavors from lime juice, fish sauce, and chili creates a perfect balance in this Thai-inspired salad.
@@ -354,3 +434,25 @@ output:
 6. Slice the squid into rings and add both the shrimp and squid to the marinated papaya salad. Toss gently to combine.
 7. Serve the Papaya Salad with Shrimp and Squid as a refreshing appetizer or a light main dish.
 8. Optional: Garnish with minced garlic and sliced chili pepper for an extra kick of flavor. Enjoy!
+
+\newpage
+## Com Special
+> Karden's Com Special is a beloved childhood meal consisting of rice topped with hotdog (and optional spam), drizzled with Kewpie Mayo and soy sauce. This delightful and simple dish holds a special place in Karden's heart, providing a comforting and satisfying meal that brings back fond memories of his youth.
+
+### Ingredients
+- Rice
+- Kewpie Mayo
+- Soy Sauce
+- Optional:
+  - Spam
+  - Hotdog
+
+### Instructions
+1. Cook the rice according to your preferred method.
+2. Slice the hotdog into bite-sized pieces.
+3. If using spam, slice it into thin slices as well.
+4. In a pan, cook the hotdog (and spam, if using) until browned and heated through.
+5. Once the rice is cooked, place it in a bowl.
+6. Top the rice with the cooked hotdog (and spam, if using).
+7. Drizzle Kewpie Mayo and soy sauce over the rice and hotdog.
+8. Mix everything together to ensure the flavors are well combined. Enjoy!
