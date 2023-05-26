@@ -1,2 +1,2 @@
 # Recipe-Book
-Recipes created by Nhu Vuong
+Recipes obtained from friends and family
