@@ -7,6 +7,7 @@ output:
     toc: true
 ---
 \newpage
+# Nhu's Recipes
 ## Bo Kho
 > Vietnamese beef stew known for its rich and aromatic flavors. It features tender beef chunks, carrots, onions, lemongrass, and warming spices like star anise, ginger, and garlic, slow-cooked in a flavorful broth until the meat is melt-in-your-mouth tender.
 
@@ -137,7 +138,39 @@ output:
 3. Grab some chips. Enjoy!
 
 \newpage
-## Tony's Tuna Sandwich
+## Pho Ga
+> A comforting and fragrant Vietnamese soup made with chicken, rice noodles, and a flavorful broth infused with aromatic spices. Pho Ga is a popular street food in Vietnam and is enjoyed for its delicate flavors and nourishing qualities.
+
+### Ingredients
+- 1 whole chicken (about 3-4 lbs), giblets removed
+- 1 onion, peeled and halved
+- 4-inch piece of ginger, sliced
+- 4 cloves of garlic, crushed
+- 2 cinnamon sticks
+- 3 star anise
+- 6 cloves
+- 1 tablespoon coriander seeds
+- 2 teaspoons salt
+- 8 cups chicken broth
+- 8 oz rice noodles (banh pho)
+- Garnishes: bean sprouts, fresh herbs (Thai basil, cilantro, mint), lime wedges, sliced chili peppers
+
+### Instructions
+1. In a large pot, bring water to a boil. Add the chicken, onion, ginger, garlic, cinnamon sticks, star anise, cloves, coriander seeds, and salt.
+2. Reduce the heat to low and simmer for about 1 hour, or until the chicken is cooked through and tender.
+3. Remove the chicken from the pot and let it cool slightly. Shred the chicken meat and set aside.
+4. Strain the broth through a fine-mesh sieve to remove the solids. Return the broth to the pot and discard the solids.
+5. Bring the broth back to a simmer. Taste and adjust the seasoning if needed.
+6. Meanwhile, cook the rice noodles according to the package instructions. Drain and rinse with cold water to prevent sticking.
+7. Divide the cooked rice noodles among serving bowls. Top with shredded chicken.
+8. Ladle the hot broth over the noodles and chicken, ensuring that the noodles are submerged in the broth.
+9. Serve the Pho Ga hot with bean sprouts, fresh herbs, lime wedges, and sliced chili peppers on the side.
+10. Allow each person to garnish their bowl according to their taste preferences.
+11. Enjoy your comforting and delicious Pho Ga!
+
+\newpage
+# Tony's Recipes
+## Tuna Sandwich
 > Made by Tony Nguyen, often created when he is hungry and doesn't require cooking. Good late night snack.
 
 ### Ingredients
@@ -209,7 +242,7 @@ output:
 9. Enjoy your delicious vegetable stir-fry!
 
 \newpage
-## Banh Mi
+## Texas Banh Mi
 > A classic Vietnamese sandwich filled with a combination of savory and flavorful ingredients. It features a crispy baguette filled with marinated meat, pickled vegetables, fresh herbs, and a variety of condiments.
 
 ### Ingredients
@@ -241,7 +274,7 @@ output:
 12. Enjoy your delicious Banh Mi sandwich!
 
 \newpage
-## Bun Bo Hue
+## Family Bun Bo Hue
 > A spicy and aromatic Vietnamese noodle soup originating from the city of Hue. It features tender beef, pork, and rice noodles in a flavorful broth infused with lemongrass, shrimp paste, and chili oil.
 
 ### Ingredients
@@ -279,39 +312,9 @@ output:
 11. Enjoy your flavorful and spicy Bun Bo Hue soup!
 
 \newpage
-## Pho Ga
-> A comforting and fragrant Vietnamese soup made with chicken, rice noodles, and a flavorful broth infused with aromatic spices. Pho Ga is a popular street food in Vietnam and is enjoyed for its delicate flavors and nourishing qualities.
-
-### Ingredients
-- 1 whole chicken (about 3-4 lbs), giblets removed
-- 1 onion, peeled and halved
-- 4-inch piece of ginger, sliced
-- 4 cloves of garlic, crushed
-- 2 cinnamon sticks
-- 3 star anise
-- 6 cloves
-- 1 tablespoon coriander seeds
-- 2 teaspoons salt
-- 8 cups chicken broth
-- 8 oz rice noodles (banh pho)
-- Garnishes: bean sprouts, fresh herbs (Thai basil, cilantro, mint), lime wedges, sliced chili peppers
-
-### Instructions
-1. In a large pot, bring water to a boil. Add the chicken, onion, ginger, garlic, cinnamon sticks, star anise, cloves, coriander seeds, and salt.
-2. Reduce the heat to low and simmer for about 1 hour, or until the chicken is cooked through and tender.
-3. Remove the chicken from the pot and let it cool slightly. Shred the chicken meat and set aside.
-4. Strain the broth through a fine-mesh sieve to remove the solids. Return the broth to the pot and discard the solids.
-5. Bring the broth back to a simmer. Taste and adjust the seasoning if needed.
-6. Meanwhile, cook the rice noodles according to the package instructions. Drain and rinse with cold water to prevent sticking.
-7. Divide the cooked rice noodles among serving bowls. Top with shredded chicken.
-8. Ladle the hot broth over the noodles and chicken, ensuring that the noodles are submerged in the broth.
-9. Serve the Pho Ga hot with bean sprouts, fresh herbs, lime wedges, and sliced chili peppers on the side.
-10. Allow each person to garnish their bowl according to their taste preferences.
-11. Enjoy your comforting and delicious Pho Ga!
-
-\newpage
-## Nhung’s Veggie Dip
-> Good with raw veggies. Nhung also likes to place it on a cold veggie pizza.
+# Nhung's Recipes
+## Veggie Dip
+> Veggie dip is a creamy and flavorful condiment perfect for enjoying with fresh vegetables. Its combination of herbs, spices, and tangy ingredients adds a delicious twist to raw veggies, making it a popular and healthy snack option.
 
 ### Ingredients
 - 2 packs of cream cheese
@@ -325,3 +328,29 @@ output:
 4. Pour in your 1 pack of ranch seasoning.
 5. Mix until the dip is homogeneous and the ranch seasoning isdispersed thoroughly.
 6. Enjoy the dip with your favorite veggies!
+
+\newpage
+# Di ba's Recipes
+## Papaya Salad
+> Papaya Salad with Shrimp and Squid is a refreshing and vibrant dish that combines the crispiness of green papaya with tender seafood. The combination of tangy flavors from lime juice, fish sauce, and chili creates a perfect balance in this Thai-inspired salad.
+
+### Ingredients
+- Salad portion of shredded Papaya
+- 3 tablespoons of vinegar
+- 2 tablespoons of fish sauce
+- 3 tablespoons of sugar
+- 1 unripe papaya
+- 3 cups of squid
+- 3 cups of shrimp
+- Garlic
+- Chili Pepper
+
+### Instructions
+1. Wash and peel the unripe papaya. Shred the papaya into thin strips using a grater or julienne peeler.
+2. In a mixing bowl, combine the shredded papaya, vinegar, fish sauce, and sugar. Toss well to coat the papaya with the dressing. Set aside for 15 minutes to allow the flavors to meld together.
+3. Meanwhile, boil the shrimp in a pot of salted water until cooked through. Drain the shrimp and peel off the shells.
+4. In a separate pot of boiling water, cook the squid until tender. If desired, score the squid bodies with a sharp knife before cooking.
+5. Once the shrimp and squid are cooked, let them cool slightly.
+6. Slice the squid into rings and add both the shrimp and squid to the marinated papaya salad. Toss gently to combine.
+7. Serve the Papaya Salad with Shrimp and Squid as a refreshing appetizer or a light main dish.
+8. Optional: Garnish with minced garlic and sliced chili pepper for an extra kick of flavor. Enjoy!
