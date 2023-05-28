@@ -47,6 +47,45 @@ output:
 7. Taste and adjust the ingredients above as needed. Enjoy!
 
 \newpage
+## Spam Musubi
+> Spam Musubi is a delicious and popular Hawaiian snack made with grilled Spam, seasoned rice, and wrapped in nori seaweed. It's a delightful combination of flavors and textures, perfect for a quick and satisfying treat.
+
+### Ingredients:
+- Nori (seaweed sheets), as needed
+- 1 can of Spam
+- Kewpie Mayo or Spicy Mayo
+- Rice, preferably freshly cooked
+- Optional:
+  - Furikake
+  - Sesame Oil (to season rice)
+  - Egg
+
+### Musubi Sauce:
+- Garlic, to taste
+- 1 tablespoon of Sugar
+- 4 tablespoons of Soy Sauce
+- 2 tablespoons of Water
+- Pepper Flakes, to taste
+- Green Onion, to taste
+- Oil
+
+### Instructions:
+1. Cook your rice based on package instructions or with your preferred method.
+2. Cut the nori sushi paper into the size of your spam slices.
+3. Cut the spam into thin or thick slices according to your preference.
+   - Note: If you want to make the Musubi sauce, follow the steps below.
+4. Save the rectangular spam containers as molds.
+5. Optional: Make a plain or buttered omelet/scrambled eggs and slice it into pieces approximately the size of your spam slices.
+6. Season your rice with furikake or sesame oil, if desired.
+7. Line the spam can with plastic wrap, leaving enough length to pull it back out of the can.
+8. Layer the spam musubi as follows:
+   1. Nori
+   2. Spam
+   3. Optional: Egg
+   4. Rice
+9. Carefully pull out the spam musubi and fold over the nori pieces on the bottom to wrap the musubi. Enjoy!
+
+\newpage
 ## Bo Kho
 > Vietnamese beef stew known for its rich and aromatic flavors. It features tender beef chunks, carrots, onions, lemongrass, and warming spices like star anise, ginger, and garlic, slow-cooked in a flavorful broth until the meat is melt-in-your-mouth tender.
 
