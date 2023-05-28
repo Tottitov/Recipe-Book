@@ -3,8 +3,10 @@ title: Recipe Book
 author: Family & Friends
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output:
-  pdf_document:
+  html_document:
     toc: true
+    toc_depth: 2
+    toc_title: Table of Contents
 ---
 
 \newpage
@@ -245,6 +247,43 @@ output:
 9. Serve the Pho Ga hot with bean sprouts, fresh herbs, lime wedges, and sliced chili peppers on the side.
 10. Allow each person to garnish their bowl according to their taste preferences.
 11. Enjoy your comforting and delicious Pho Ga!
+
+\newpage
+## Chicken Katsu (Drumsticks)
+> Crispy and juicy chicken drumsticks coated in a golden panko crust, served with tonkatsu sauce, shredded cabbage, and rice. A delicious and satisfying Japanese dish
+
+### Ingredients:
+- 4 chicken drumsticks
+- For the Brine:
+  - 4 cups hot water
+  - 1/4 cup salt
+  - 2 tablespoons parsley
+  - 1 teaspoon black pepper
+  - 1 teaspoon paprika
+  - 1/2 teaspoon cayenne pepper
+  - 1/2 teaspoon lemon pepper
+  - 1/2 teaspoon cumin
+  - 1/4 teaspoon red chili pepper flakes
+  - 1/4 teaspoon dill
+- All-purpose flour
+- Eggs, beaten
+- Panko breadcrumbs
+- Vegetable oil, for frying
+- Tonkatsu sauce, for serving
+- Shredded cabbage, for serving
+- Cooked rice, for serving
+
+### Instructions:
+1. In a bowl, combine hot water, salt, parsley, black pepper, paprika, cayenne pepper, lemon pepper, cumin, red chili pepper flakes, and dill. Stir until the salt is dissolved.
+2. Place the chicken drumsticks in a large resealable bag and pour the brine over them. Seal the bag and refrigerate for at least 2 hours, or overnight for best results.
+3. Remove the drumsticks from the brine and pat them dry with paper towels.
+4. Dredge the chicken drumsticks in flour, shaking off any excess.
+5. Dip the drumsticks into the beaten eggs, allowing any excess to drip off.
+6. Coat the drumsticks in panko breadcrumbs, pressing gently to adhere.
+7. Heat vegetable oil in a large skillet or deep fryer over medium heat.
+8. Fry the chicken drumsticks in the hot oil until golden brown and cooked through, about 12-15 minutes, turning occasionally.
+9. Transfer the cooked chicken katsu drumsticks to a paper towel-lined plate to drain excess oil.
+10. Serve the crispy and flavorful Dark Meat Chicken Katsu drumsticks with tonkatsu sauce, shredded cabbage, and cooked rice. Enjoy!
 
 \newpage
 # Tony's Recipes
