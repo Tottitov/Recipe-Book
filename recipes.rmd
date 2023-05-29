@@ -12,6 +12,7 @@ output:
       smooth_scroll: false
     number_sections: false
     section_divs: true
+    split_by: section
 ---
 
 # Nhu's Recipes
