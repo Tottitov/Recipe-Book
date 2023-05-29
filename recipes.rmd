@@ -6,13 +6,8 @@ output:
   html_document:
     toc: true
     toc_depth: 2
-    toc_float:
-      collapsed: false
-      number_sections: false
-      smooth_scroll: false
-    number_sections: false
+    toc_float: true
     section_divs: true
-    split_by: section
 ---
 
 # Nhu's Recipes
