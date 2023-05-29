@@ -6,7 +6,6 @@ output:
   html_document:
     toc: true
     toc_depth: 2
-    toc_title: Table of Contents
 ---
 
 # Nhu's Recipes
