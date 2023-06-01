@@ -50,6 +50,7 @@ output:
 
 ## Spam Musubi
 > Spam Musubi is a delicious and popular Hawaiian snack made with grilled Spam, seasoned rice, and wrapped in nori seaweed. It's a delightful combination of flavors and textures, perfect for a quick and satisfying treat.
+#### Author: Nhu Vuong
 
 ### Ingredients:
 - Nori (seaweed sheets), as needed
@@ -88,6 +89,7 @@ output:
 
 ## Bo Kho
 > Vietnamese beef stew known for its rich and aromatic flavors. It features tender beef chunks, carrots, onions, lemongrass, and warming spices like star anise, ginger, and garlic, slow-cooked in a flavorful broth until the meat is melt-in-your-mouth tender.
+#### Author: Nhu Vuong
 
 ### Ingredients
 - 1.5 lbs of tendon
