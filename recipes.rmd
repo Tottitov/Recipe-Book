@@ -10,6 +10,8 @@ output:
     section_divs: true
 ---
 
+<hr>  <!-- Add horizontal line -->
+
 ## Tuna Poke
 > Tuna poke is a popular dish that originated in Hawaii, featuring fresh and cubed sushi-grade tuna marinated in a flavorful mixture of soy sauce, sesame oil, and other seasonings. The combination of tender tuna, crisp vegetables, and savory marinade creates a delicious and refreshing dish, perfect as an appetizer or light meal. Meal created by Nhu Vuong.
 
@@ -35,6 +37,8 @@ output:
 5. Place the cubed tuna in a bowl and add the following ingredients, adjusting to taste:
 6. Mix everything together.
 7. Taste and adjust the ingredients above as needed. Enjoy!
+
+<hr>  <!-- Add horizontal line -->
 
 ## Spam Musubi
 > Spam Musubi is a delicious and popular Hawaiian snack made with grilled Spam, seasoned rice, and wrapped in nori seaweed. It's a delightful combination of flavors and textures, perfect for a quick and satisfying treat. Meal created by Nhu Vuong
