@@ -14,18 +14,18 @@ output:
 > Tuna poke is a popular dish that originated in Hawaii, featuring fresh and cubed sushi-grade tuna marinated in a flavorful mixture of soy sauce, sesame oil, and other seasonings. The combination of tender tuna, crisp vegetables, and savory marinade creates a delicious and refreshing dish, perfect as an appetizer or light meal. Meal created by Nhu Vuong.
 
 ### Ingredients
-- Sushi Grade Tuna (depending on desired quantity)
-- Soy Sauce (to taste)
-- Sesame Oil (to taste)
-- Green Onion (to taste)
-- Jalapeno (to taste)
-- Garlic Powder (to taste)
-- Black Pepper (to taste)
-- Sugar (pinch, to taste)
-- Salt (to taste)
+- 1 lb Sushi Grade Tuna
+- 2 tablespoons Soy Sauce
+- 1 tablespoon Sesame Oil
+- 2 green onions, thinly sliced
+- 1 jalapeno, deseeded and diced
+- 1/2 teaspoon Garlic Powder
+- 1/4 teaspoon Black Pepper
+- Pinch of Sugar
+- Pinch of Salt
 - Optional:
-  - Korean Pepper Flakes (to taste)
-  - Shallots (to taste)
+  - 1/4 teaspoon Korean Pepper Flakes
+  - 1 shallot, finely chopped
 
 ### Instructions
 1. Thaw the tuna and press between paper towels to remove any fishy smell.
@@ -33,17 +33,6 @@ output:
 3. Thinly slice the green onion.
 4. Deseed and cube the jalapeno.
 5. Place the cubed tuna in a bowl and add the following ingredients, adjusting to taste:
-   - Soy Sauce
-   - Sesame Oil
-   - Green Onion slices
-   - Jalapeno cubes
-   - Garlic Powder
-   - Black Pepper
-   - Sugar (pinch)
-   - Salt
-   - Optional:
-     - Korean Pepper Flakes
-     - Shallots
 6. Mix everything together.
 7. Taste and adjust the ingredients above as needed. Enjoy!
 
@@ -517,15 +506,15 @@ output:
 > A flavorful and creamy dish featuring penne pasta tossed in a spicy and tangy sauce made with gochujang and alfredo sauce. Served with seared chicken and garnished with green onions, it's a satisfying and delicious meal option. Meal created by Nhu Vuong
 
 ### Ingredients:
-- Penne pasta
-- Gochujang
-- Alfredo pasta sauce
-- Chopped garlic
-- Tomato paste
-- Chili oil
-- Olive oil
-- Seared chicken
-- Green onions
+- 8 oz (225 g) penne pasta
+- 2 tbsp gochujang
+- 1 cup (240 ml) alfredo pasta sauce
+- 2 cloves of garlic, chopped
+- 1 tbsp tomato paste
+- 1 tsp chili oil
+- 2 tbsp olive oil
+- 1 boneless, skinless chicken breast, seared and sliced
+- 2 green onions, chopped
 
 ### Instructions:
 1. Boil the penne pasta according to the package instructions for the medium cooking time (e.g., 9-11 minutes). Cook for about 10 minutes as it will finish cooking in the sauce. Reserve some pasta water and drain the pasta. Set aside.
