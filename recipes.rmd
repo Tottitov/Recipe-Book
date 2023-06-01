@@ -345,6 +345,8 @@ output:
 # Hispanic Cuisine
 
 ## Red Guajillo Salsa
+![](pics/Salsa.jpg)
+
 > A vibrant and flavorful Mexican salsa made with rehydrated guajillo chilies, tomatoes, garlic, onions, and spices. It offers a slightly smoky and tangy taste with a hint of heat, perfect for adding a burst of flavor to tacos, grilled meats, or as a dipping sauce.
 
 ### Ingredients
