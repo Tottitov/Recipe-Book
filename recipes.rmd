@@ -10,9 +10,10 @@ output:
     section_divs: true
 ---
 
+# Hawaiian Cuisine
+
 ## Tuna Poke
-> Tuna poke is a popular dish that originated in Hawaii, featuring fresh and cubed sushi-grade tuna marinated in a flavorful mixture of soy sauce, sesame oil, and other seasonings. The combination of tender tuna, crisp vegetables, and savory marinade creates a delicious and refreshing dish, perfect as an appetizer or light meal.
-#### Author: Nhu Vuong
+> Tuna poke is a popular dish that originated in Hawaii, featuring fresh and cubed sushi-grade tuna marinated in a flavorful mixture of soy sauce, sesame oil, and other seasonings. The combination of tender tuna, crisp vegetables, and savory marinade creates a delicious and refreshing dish, perfect as an appetizer or light meal. Meal created by Nhu Vuong.
 
 ### Ingredients
 - Sushi Grade Tuna (depending on desired quantity)
@@ -49,8 +50,7 @@ output:
 7. Taste and adjust the ingredients above as needed. Enjoy!
 
 ## Spam Musubi
-> Spam Musubi is a delicious and popular Hawaiian snack made with grilled Spam, seasoned rice, and wrapped in nori seaweed. It's a delightful combination of flavors and textures, perfect for a quick and satisfying treat.
-#### Author: Nhu Vuong
+> Spam Musubi is a delicious and popular Hawaiian snack made with grilled Spam, seasoned rice, and wrapped in nori seaweed. It's a delightful combination of flavors and textures, perfect for a quick and satisfying treat. Meal created by Nhu Vuong
 
 ### Ingredients:
 - Nori (seaweed sheets), as needed
@@ -515,9 +515,10 @@ output:
 7. Drizzle Kewpie Mayo and soy sauce over the rice and hotdog.
 8. Mix everything together to ensure the flavors are well combined. Enjoy!
 
+# Korean Cuisine
+
 ## Gochujang Alfredo Pasta
-> A flavorful and creamy dish featuring penne pasta tossed in a spicy and tangy sauce made with gochujang and alfredo sauce. Served with seared chicken and garnished with green onions, it's a satisfying and delicious meal option.
-#### Author: Nhu Vuong
+> A flavorful and creamy dish featuring penne pasta tossed in a spicy and tangy sauce made with gochujang and alfredo sauce. Served with seared chicken and garnished with green onions, it's a satisfying and delicious meal option. Meal created by Nhu Vuong
 
 ### Ingredients:
 - Penne pasta
