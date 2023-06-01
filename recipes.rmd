@@ -42,7 +42,9 @@ output:
 # Japanese Cuisine
 
 ## Chicken Katsu (Drumsticks)
-> Crispy and juicy chicken drumsticks coated in a golden panko crust, served with tonkatsu sauce, shredded cabbage, and rice. A delicious and satisfying Japanese dish
+![](pics/Katsu.jpg)
+
+> Crispy and juicy chicken drumsticks coated in a golden panko crust, served with tonkatsu sauce, shredded cabbage, and rice. A delicious and satisfying Japanese dish. Meal made by Nhu Vuong.
 
 ### Ingredients:
 - 4 chicken drumsticks
@@ -197,6 +199,8 @@ output:
 7. Fry until golden brown. Enjoy!
 
 ## Goi Ga
+![](pics/Goi_Ga.jpg)
+
 > Vietnamese chicken salad made with poached chicken, shredded vegetables, herbs, and a fish sauce-based dressing. It is a refreshing and flavorful dish commonly eaten as a light meal, and can be served on its own or as part of a larger Vietnamese meal.
 
 ### Ingredients
@@ -387,7 +391,9 @@ output:
 # American Cuisine
 
 ## Tuna Sandwich
-> Made by Tony Nguyen, often created when he is hungry and doesn't require cooking. Good late night snack.
+![](pics/Tuna_Sandwich.jpg)
+
+> A tuna sandwich is a classic and versatile dish consisting of a filling made from canned tuna mixed with mayonnaise and other ingredients, served between slices of bread. It offers a satisfying blend of flavors and textures, making it a popular choice for a quick and delicious meal or snack. Meal made by Tony Nguyen
 
 ### Ingredients
 - Sour Wheat Bread (Bought from Costco)
@@ -424,6 +430,24 @@ output:
 5. For a medium-rare steak, the temperature should read around 130-135°F (55-57°C).
 6. Remove the steak from the heat and let it rest for 5-10 minutes to allow the juices to redistribute.
 7. Slice the steak against the grain and serve. Enjoy!
+
+
+## Baked Corned Beef
+> Baked Corned Beef is a flavorful dish made from a pack of flat-cut corned beef brisket, seasoned with its accompanying packet. This tender and delicious meat is baked to perfection, creating a mouthwatering meal that can be enjoyed sliced and served hot.
+
+### Ingredients
+- 1 pack of Flat Cut Corned Beef Brisket (with seasoning packet inside)
+
+### Instructions
+1. Pre-heat oven to 325°F or use an air fryer.
+2. Open the packet of corned beef brisket and set the seasoning packet aside.
+3. Rinse the corned beef to remove excess blood, then pat dry with a paper towel.
+4. Use a mallet to lightly crush the seasoning packet to enhance the flavors.
+5. Evenly spread the contents of the seasoning packet over the corned beef.
+6. Place the corned beef on a baking tray or air fryer tray.
+7. Bake covered in the oven at 325°F for 1 hour, then uncover and bake for an additional 30 minutes to 1 hour until cooked inside.
+8. If using an air fryer, set it to 330°F and bake for 1 hour.
+9. Allow the corned beef to rest for 30 minutes before slicing.
 
 # Italian Cuisine
 
