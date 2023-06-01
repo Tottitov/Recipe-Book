@@ -395,7 +395,7 @@ output:
 ## Tuna Sandwich
 ![](pics/Tuna_Sandwich.jpg)
 
-> A tuna sandwich is a classic and versatile dish consisting of a filling made from canned tuna mixed with mayonnaise and other ingredients, served between slices of bread. It offers a satisfying blend of flavors and textures, making it a popular choice for a quick and delicious meal or snack. Meal made by Tony Nguyen
+> A tuna sandwich is a classic and versatile dish consisting of a filling made from canned tuna mixed with mayonnaise and other ingredients, served between slices of bread. It offers a satisfying blend of flavors and textures, making it a popular choice for a quick and delicious meal or snack. Recipe curated by Tony Nguyen
 
 ### Ingredients
 - Sour Wheat Bread (Bought from Costco)
@@ -566,3 +566,34 @@ output:
 3. In the same pan, add chopped garlic and stir-fry until fragrant. Then add gochujang, tomato paste, garlic, alfredo sauce, chili oil, and some pasta water. Stir until the sauce boils, then toss in the cooked chicken. Season to taste.
 4. Add the cooked pasta to the pan and toss everything together until well combined. Turn off the heat and continue tossing lightly.
 5. Drizzle the dish with green onions and parsley.
+
+# Lao Cuisine
+
+## Baked Eggs
+> Baked Eggs is a savory and flavorful dish made with cracked eggs mixed with a combination of seasonings and baked until set. This easy-to-make recipe results in delicious and creamy baked eggs that can be enjoyed as a breakfast or brunch option. Recipe curated by Nhu Vuong.
+
+Ingredients:
+- 3 dozen eggs
+- 1/2 cup fish sauce
+- 1/2 cup oil
+- 1/2 cup chicken bouillon powder
+- 1/4 cup sugar
+- 1/2 cup garlic powder
+- 1/2 cup onion powder
+- 1/4 cup black pepper
+- 1/2 cup Korean red pepper powder
+- 1/4 cup chili flakes (optional)
+- 1 tsp MSG (optional)
+- Whisk/chopsticks
+- Soup spoon
+- Large mixing bowl
+- Glass measuring cup
+
+Directions:
+1. Preheat oven to 165°F.
+2. Use a small soup spoon to crack a small hole into the pointy end of each egg and empty the contents into a large mixing bowl. Place the emptied eggshells back into their original cartons.
+3. In the large mixing bowl with the egg contents, add the measured amounts of fish sauce, oil, chicken bouillon powder, sugar, garlic powder, onion powder, black pepper, Korean red pepper powder, chili flakes (if desired), and MSG (if desired).
+4. Mix well using a whisk or chopsticks until all the ingredients are incorporated and the mixture becomes smooth.
+5. Pour the mixed egg contents back into the eggshells using a glass measuring cup, filling them all the way. Place the filled eggshells back in the cartons.
+6. Place the egg-filled cartons in the preheated oven and bake at 165°F for approximately 1.5-2 hours or until the egg mixture is set and does not stick to a toothpick.
+7. Remove from the oven and let the baked eggs cool before serving. Enjoy!
