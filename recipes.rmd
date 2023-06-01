@@ -1,6 +1,6 @@
 ---
-title: Recipe Manual
-author: Nhu Vuong & Tony Nguyen
+title: Recipe Book
+author: Friends & Family
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output:
   html_document:
