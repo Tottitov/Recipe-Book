@@ -1,12 +1,12 @@
 ---
 title: Recipe Book
-author: Family & Friends
+author: Nhu Vuong & Tony Nguyen
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output:
   html_document:
     css: recipes.css
-    theme: readable
-    highlight: tango
+    theme: journal
+    highlight: zenburn
     toc: true
     toc_depth: 2
     toc_float: true
