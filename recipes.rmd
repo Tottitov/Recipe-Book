@@ -12,7 +12,7 @@ output:
 
 ## Tuna Poke
 > Tuna poke is a popular dish that originated in Hawaii, featuring fresh and cubed sushi-grade tuna marinated in a flavorful mixture of soy sauce, sesame oil, and other seasonings. The combination of tender tuna, crisp vegetables, and savory marinade creates a delicious and refreshing dish, perfect as an appetizer or light meal.
-Author: Nhu Vuong
+#### Author: Nhu Vuong
 
 ### Ingredients
 - Sushi Grade Tuna (depending on desired quantity)
@@ -513,9 +513,9 @@ Author: Nhu Vuong
 7. Drizzle Kewpie Mayo and soy sauce over the rice and hotdog.
 8. Mix everything together to ensure the flavors are well combined. Enjoy!
 
-## Penne Pasta with Gochujang Alfredo Sauce
-> Penne Pasta with Gochujang Alfredo Sauce is a flavorful and creamy dish featuring penne pasta tossed in a spicy and tangy sauce made with gochujang and alfredo sauce. Served with seared chicken and garnished with green onions, it's a satisfying and delicious meal option.
-Author: Nhu Vuong
+## Gochujang Alfredo Pasta
+> A flavorful and creamy dish featuring penne pasta tossed in a spicy and tangy sauce made with gochujang and alfredo sauce. Served with seared chicken and garnished with green onions, it's a satisfying and delicious meal option.
+#### Author: Nhu Vuong
 
 ### Ingredients:
 - Penne pasta
