@@ -136,6 +136,16 @@ output:
 4. Optionally, garnish with green onions.
 5. Serve the Quick & Easy Crab Salad with chips or crackers for a delightful snack. Enjoy!
 
+
+## Nikujaga
+> Thinly sliced pork (or beef) cooked with potato, onion, carrots, and shirataki in a fish broth base soup with soy sauce. A well known home cook meal.
+
+### Ingredients:
+- test
+
+### Instructions:
+1. test
+
 # Vietnamese Cuisine
 
 ## Bo Kho
