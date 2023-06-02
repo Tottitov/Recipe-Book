@@ -13,7 +13,7 @@ jobs:
       - name: Render document
         uses: happyRip/rmarkdown-action@v1.1
         with:
-          input_file: recipes.Rmd
+          input_file: recipes.rmd
           output_format: html_document
       - name: Commit files
         run: |
