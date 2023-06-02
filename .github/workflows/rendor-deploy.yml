@@ -29,3 +29,10 @@ jobs:
         with:
           branch: ${{ github.head_ref }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Deploy to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@4.1.0
+        with:
+          branch: main
+          folder: . # Assuming the rendered HTML files are in the root folder
+          cleanup: false # Set this to true if you want to remove old files on each deployment
+          github_token: ${{ secrets.GITHUB_TOKEN }}
