@@ -39,6 +39,44 @@ output:
 6. Mix everything together.
 7. Taste and adjust the ingredients above as needed. Enjoy!
 
+## Spam Musubi
+> Spam Musubi is a delicious and popular Hawaiian snack made with grilled Spam, seasoned rice, and wrapped in nori seaweed. It's a delightful combination of flavors and textures, perfect for a quick and satisfying treat. Meal created by Nhu Vuong
+
+### Ingredients:
+- Nori (seaweed sheets), as needed
+- 1 can of Spam
+- Kewpie Mayo or Spicy Mayo
+- Rice, preferably freshly cooked
+- Optional:
+  - Furikake
+  - Sesame Oil (to season rice)
+  - Egg
+
+### Musubi Sauce:
+- Garlic, to taste
+- 1 tablespoon of Sugar
+- 4 tablespoons of Soy Sauce
+- 2 tablespoons of Water
+- Pepper Flakes, to taste
+- Green Onion, to taste
+- Oil
+
+### Instructions:
+1. Cook your rice based on package instructions or with your preferred method.
+2. Cut the nori sushi paper into the size of your spam slices.
+3. Cut the spam into thin or thick slices according to your preference.
+   - Note: If you want to make the Musubi sauce, follow the steps below.
+4. Save the rectangular spam containers as molds.
+5. Optional: Make a plain or buttered omelet/scrambled eggs and slice it into pieces approximately the size of your spam slices.
+6. Season your rice with furikake or sesame oil, if desired.
+7. Line the spam can with plastic wrap, leaving enough length to pull it back out of the can.
+8. Layer the spam musubi as follows:
+   1. Nori
+   2. Spam
+   3. Optional: Egg
+   4. Rice
+9. Carefully pull out the spam musubi and fold over the nori pieces on the bottom to wrap the musubi. Enjoy!
+
 # Japanese Cuisine
 
 ## Chicken Katsu (Drumsticks)
@@ -78,44 +116,6 @@ output:
 8. Fry the chicken drumsticks in the hot oil until golden brown and cooked through, about 12-15 minutes, turning occasionally.
 9. Transfer the cooked chicken katsu drumsticks to a paper towel-lined plate to drain excess oil.
 10. Serve the crispy and flavorful Dark Meat Chicken Katsu drumsticks with tonkatsu sauce, shredded cabbage, and cooked rice. Enjoy!
-
-## Spam Musubi
-> Spam Musubi is a delicious and popular Hawaiian snack made with grilled Spam, seasoned rice, and wrapped in nori seaweed. It's a delightful combination of flavors and textures, perfect for a quick and satisfying treat. Meal created by Nhu Vuong
-
-### Ingredients:
-- Nori (seaweed sheets), as needed
-- 1 can of Spam
-- Kewpie Mayo or Spicy Mayo
-- Rice, preferably freshly cooked
-- Optional:
-  - Furikake
-  - Sesame Oil (to season rice)
-  - Egg
-
-### Musubi Sauce:
-- Garlic, to taste
-- 1 tablespoon of Sugar
-- 4 tablespoons of Soy Sauce
-- 2 tablespoons of Water
-- Pepper Flakes, to taste
-- Green Onion, to taste
-- Oil
-
-### Instructions:
-1. Cook your rice based on package instructions or with your preferred method.
-2. Cut the nori sushi paper into the size of your spam slices.
-3. Cut the spam into thin or thick slices according to your preference.
-   - Note: If you want to make the Musubi sauce, follow the steps below.
-4. Save the rectangular spam containers as molds.
-5. Optional: Make a plain or buttered omelet/scrambled eggs and slice it into pieces approximately the size of your spam slices.
-6. Season your rice with furikake or sesame oil, if desired.
-7. Line the spam can with plastic wrap, leaving enough length to pull it back out of the can.
-8. Layer the spam musubi as follows:
-   1. Nori
-   2. Spam
-   3. Optional: Egg
-   4. Rice
-9. Carefully pull out the spam musubi and fold over the nori pieces on the bottom to wrap the musubi. Enjoy!
 
 ## Crab Salad
 > Crab Salad is a refreshing and flavorful dish made with succulent crab meat, mayonnaise, and a variety of seasonings. It can be enjoyed as a light and satisfying appetizer or served as a filling in sandwiches or wraps for a tasty meal option.
