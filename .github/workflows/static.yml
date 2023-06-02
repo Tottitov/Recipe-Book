@@ -34,10 +34,14 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v3
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-artifact@v2
         with:
-          # Upload entire repository
-          path: '.'
+          # Upload recipes.html file
+          name: recipes
+          path: recipes.html
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
+        with:
+          # Use the uploaded artifact for deployment
+          artifacts: recipes
