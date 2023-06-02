@@ -14,7 +14,7 @@ jobs:
         uses: happyRip/rmarkdown-action@v1.1
         with:
           input_file: recipes.rmd
-          output_format: pdf_document
+          output_format: html_document
       - name: Commit files
         run: |
           git config --local user.email "github-actions[bot]@example.com"
