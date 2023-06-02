@@ -1,8 +1,11 @@
-name: Render documents with rmarkdown-action
+name: Render documents and upload
+
 on:
   push:
-    branches:
-      - main
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
 jobs:
   render_document:
     runs-on: ubuntu-latest
@@ -10,23 +13,21 @@ jobs:
       - name: Set up Git repository
         uses: actions/checkout@v2
       - name: Render document
-        uses: r-lib/actions/setup-r@v2
+        uses: lc5415/rmarkdown-action@v1
         with:
-          r-version: "4.1"
-      - name: Install dependencies
-        run: |
-          Rscript -e 'install.packages(c("rmarkdown"))'
-      - name: Render RMarkdown document
-        run: |
-          Rscript -e 'rmarkdown::render("recipes.Rmd")'
+          input_file: recipes.Rmd
+	  output_format: html_document
       - name: Commit files
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add .
-          git commit -m "Update rendered document"
+          git config --local core.autocrlf false
+          git config --local user.email "${{ github.actor }}@users.noreply.github.com"
+          git config --local user.name "${{ github.actor }}"
+          git add . && git add --renormalize .
+          git pull origin ${{ github.head_ref }} --autostash --rebase -X ours
+          git commit --allow-empty -am "AUTO-GH ACTION: ${{ github.workflow }}"
+          NO_PAGER=1 git --no-pager diff HEAD^
       - name: Push changes
-        uses: ad-m/github-push-action@v0.6.0
+        uses: ad-m/github-push-action@master
         with:
-          branch: main
+          branch: ${{ github.head_ref }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
