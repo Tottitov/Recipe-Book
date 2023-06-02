@@ -1,0 +1,28 @@
+name: Render documents and deploy to GitHub Pages
+on:
+  push:
+    branches:
+      - compiler
+
+jobs:
+  render_document:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Render document
+        uses: happyRip/rmarkdown-action@v1.1
+        with:
+          input_file: recipes.rmd
+          output_format: pdf_document
+      - name: Commit files
+        run: |
+          git config --local user.email "github-actions[bot]@example.com"
+          git config --local user.name "GitHub Actions"
+          git add .
+          git commit -m "Rendered RMarkdown file to HTML"
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          branch: master
+          github_token: ${{ secrets.GITHUB_TOKEN }}
