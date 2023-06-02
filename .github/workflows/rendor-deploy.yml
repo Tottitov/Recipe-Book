@@ -1,37 +1,32 @@
-name: Render RMarkdown to HTML
-
+name: Render documents with rmarkdown-action
 on:
   push:
     branches:
       - main
-
 jobs:
-  render:
+  render_document:
     runs-on: ubuntu-latest
-
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v2
-
-    - name: Set up R environment
-      uses: r-lib/actions/setup-r@v1
-      with:
-        r-version: '4.x'
-
-    - name: Install dependencies
-      run: |
-        Rscript -e "install.packages('rmarkdown')"
-        Rscript -e "install.packages('knitr')"
-        Rscript -e "install.packages('tidyverse')"
-        Rscript -e "install.packages('ggplot2')"
-
-    - name: Render RMarkdown to HTML
-      run: Rscript -e "rmarkdown::render('recipes.rmd', output_format = 'html_document')"
-
-    - name: Commit and push changes
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git add .
-        git commit -m "Update rendered HTML"
-        git push
+      - name: Set up Git repository
+        uses: actions/checkout@v2
+      - name: Render document
+        uses: r-lib/actions/setup-r@v1
+        with:
+          r-version: "4.1"
+      - name: Install dependencies
+        run: |
+          Rscript -e 'install.packages(c("rmarkdown"))'
+      - name: Render RMarkdown document
+        run: |
+          Rscript -e 'rmarkdown::render("recipes.Rmd")'
+      - name: Commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "Update rendered document"
+      - name: Push changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          branch: main
+          github_token: ${{ secrets.GITHUB_TOKEN }}
