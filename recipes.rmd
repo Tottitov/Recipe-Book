@@ -8,7 +8,7 @@ output:
     highlight: tango
     toc: true
     toc_depth: 2
-	toc_float: true
+    toc_float: true
 ---
 
 # Hawaiian Cuisine
