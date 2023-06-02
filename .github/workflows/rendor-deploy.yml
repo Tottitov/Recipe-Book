@@ -26,13 +26,3 @@ jobs:
         with:
           branch: main
           github_token: ${{ secrets.GITHUB_TOKEN }}
-      - name: Checkout again
-        uses: actions/checkout@v3
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: JamesIves/github-pages-deploy-action@4.1.0
-        with:
-          branch: gh-pages
-          folder: .  # Assuming the rendered HTML files are in the root folder
-          cleanup: false  # Set this to true if you want to remove old files on each deployment
-          token: ${{ secrets.GITHUB_TOKEN }}
