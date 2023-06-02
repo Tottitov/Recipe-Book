@@ -2,7 +2,7 @@ name: Render documents and deploy to GitHub Pages
 on:
   push:
     branches:
-      - main
+      - compiler
 
 jobs:
   render_document:
