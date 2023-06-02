@@ -1,5 +1,9 @@
-name: Render documents with rmarkdown-action
-on: [push]
+name: Render documents and push to main
+
+on:
+  push:
+    branches:
+      - main
 
 jobs:
   render_document:
@@ -12,3 +16,10 @@ jobs:
         with:
           input_file: recipes.Rmd
           output_format: html_document
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "${{ github.actor }}@users.noreply.github.com"
+          git config --local user.name "${{ github.actor }}"
+          git add .
+          git commit -m "Compile recipes.rmd into html"
+          git push
