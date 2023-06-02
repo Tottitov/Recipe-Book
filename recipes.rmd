@@ -14,7 +14,7 @@ output:
 # Hawaiian Cuisine
 
 ## Tuna Poke
-> A popular dish that originated in Hawaii, featuring fresh and cubed sushi-grade tuna marinated in a flavorful mixture of soy sauce, sesame oil, and other seasonings. The combination of tender tuna, crisp vegetables, and savory marinade creates a delicious and refreshing dish, perfect as an appetizer or light meal. Meal created by Nhu Vuong.
+> A popular dish that originated in Hawaii, featuring fresh and cubed sushi-grade tuna marinated in a flavorful mixture of soy sauce, sesame oil, and other seasonings. The combination of tender tuna, crisp vegetables, and savory marinade creates a delicious and refreshing dish, perfect as an appetizer or light meal. Recipe curated by Nhu Vuong.
 
 ### Ingredients
 - 1 lb Sushi Grade Tuna
