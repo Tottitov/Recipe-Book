@@ -1,4 +1,4 @@
-name: Render and Deploy Recipe Book
+name: Render RMarkdown to HTML
 
 on:
   push:
@@ -6,22 +6,32 @@ on:
       - main
 
 jobs:
-  render_and_deploy:
+  render:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v2
+    - name: Checkout repository
+      uses: actions/checkout@v2
 
-      - name: Render RMarkdown Document
-        uses: lc5415/rmarkdown-action@v1
-        with:
-          input_file: recipes.rmd
-          output_format: html_document
+    - name: Set up R environment
+      uses: r-lib/actions/setup-r@v1
+      with:
+        r-version: '4.x'
 
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: gh-pages
-          publish_dir: .
+    - name: Install dependencies
+      run: |
+        Rscript -e "install.packages('rmarkdown')"
+        Rscript -e "install.packages('knitr')"
+        Rscript -e "install.packages('tidyverse')"
+        Rscript -e "install.packages('ggplot2')"
+
+    - name: Render RMarkdown to HTML
+      run: Rscript -e "rmarkdown::render('recipes.rmd', output_format = 'html_document')"
+
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add .
+        git commit -m "Update rendered HTML"
+        git push
