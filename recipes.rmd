@@ -3,12 +3,9 @@ title: Recipe Book
 author: Friends & Family
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output:
-  html_document:
-    theme: readable
-    highlight: tango
+  pdf_document:
     toc: true
     toc_depth: 2
-    toc_float: true
 ---
 
 # Hawaiian Cuisine
