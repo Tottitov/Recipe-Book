@@ -80,9 +80,7 @@ output:
 # Japanese Cuisine
 
 ## Chicken Katsu (Drumsticks)
-![](pics/Katsu.jpg)
-
-> Crispy and juicy chicken drumsticks coated in a golden panko crust, served with tonkatsu sauce, shredded cabbage, and rice. A delicious and satisfying Japanese dish. Meal made by Nhu Vuong.
+> Crispy and juicy chicken drumsticks coated in a golden panko crust, served with tonkatsu sauce, shredded cabbage, and rice. A delicious and satisfying Japanese dish. Recipe curated by Nhu Vuong.
 
 ### Ingredients:
 - 4 chicken drumsticks
@@ -141,7 +139,9 @@ output:
 # Vietnamese Cuisine
 
 ## Bo Kho
-> Vietnamese beef stew known for its rich and aromatic flavors. It features tender beef chunks, carrots, onions, lemongrass, and warming spices like star anise, ginger, and garlic, slow-cooked in a flavorful broth until the meat is melt-in-your-mouth tender.
+![](pics/Bo_Kho.jpg)
+
+> Vietnamese beef stew known for its rich and aromatic flavors. It features tender beef chunks, carrots, onions, lemongrass, and warming spices like star anise, ginger, and garlic, slow-cooked in a flavorful broth until the meat is melt-in-your-mouth tender. Recipe curated by Nhu Vuong.
 
 ### Ingredients
 - 1.5 lbs of tendon
@@ -177,7 +177,7 @@ output:
 13. Adjust taste to preferred peference. Enjoy!
 
 ## Tilapia Fried Fish Paste
-> "Cha Ca" in Vietnamese, is a popular dish that is made by marinating bite-sized pieces of tilapia fish in fish sauce, garlic, and other spices. The marinated fish is then pan-fried until crispy and served with rice noodles, herbs, and a variety of accompaniments.
+> "Cha Ca" in Vietnamese, is a popular dish that is made by marinating bite-sized pieces of tilapia fish in fish sauce, garlic, and other spices. The marinated fish is then pan-fried until crispy and served with rice noodles, herbs, and a variety of accompaniments. Recipe curated by Nhu Vuong.
 
 ### Ingredients
 - 3 filets of tilapia fish; thawed, washed, and dried
@@ -201,7 +201,7 @@ output:
 ## Goi Ga
 ![](pics/Goi_Ga.jpg)
 
-> Vietnamese chicken salad made with poached chicken, shredded vegetables, herbs, and a fish sauce-based dressing. It is a refreshing and flavorful dish commonly eaten as a light meal, and can be served on its own or as part of a larger Vietnamese meal.
+> Vietnamese chicken salad made with poached chicken, shredded vegetables, herbs, and a fish sauce-based dressing. It is a refreshing and flavorful dish commonly eaten as a light meal, and can be served on its own or as part of a larger Vietnamese meal. Recipe curated by Nhu Vuong.
 
 ### Ingredients
 - 2 cup poached chicken, shredded or thinly sliced
@@ -224,7 +224,7 @@ output:
 6. Serve the salad immediately as a light meal or as part of a larger Vietnamese meal. Enjoy!
 
 ## Pho Ga
-> A comforting and fragrant Vietnamese soup made with chicken, rice noodles, and a flavorful broth infused with aromatic spices. Pho Ga is a popular street food in Vietnam and is enjoyed for its delicate flavors and nourishing qualities.
+> A comforting and fragrant Vietnamese soup made with chicken, rice noodles, and a flavorful broth infused with aromatic spices. Pho Ga is a popular street food in Vietnam and is enjoyed for its delicate flavors and nourishing qualities. Recipe curated by Nhu Vuong.
 
 ### Ingredients
 - 1 whole chicken (about 3-4 lbs), giblets removed
@@ -254,7 +254,7 @@ output:
 11. Enjoy your comforting and delicious Pho Ga!
 
 ## Texas Banh Mi
-> A classic Vietnamese sandwich filled with a combination of savory and flavorful ingredients. It features a crispy baguette filled with marinated meat, pickled vegetables, fresh herbs, and a variety of condiments.
+> A classic Vietnamese sandwich filled with a combination of savory and flavorful ingredients. It features a crispy baguette filled with marinated meat, pickled vegetables, fresh herbs, and a variety of condiments. Recipe curated by Tony Nguyen.
 
 ### Ingredients
 - 1 baguette
@@ -285,7 +285,7 @@ output:
 12. Enjoy your delicious Banh Mi sandwich!
 
 ## Bun Bo Hue
-> A spicy and aromatic Vietnamese noodle soup originating from the city of Hue. It features tender beef, pork, and rice noodles in a flavorful broth infused with lemongrass, shrimp paste, and chili oil.
+> A spicy and aromatic Vietnamese noodle soup originating from the city of Hue. It features tender beef, pork, and rice noodles in a flavorful broth infused with lemongrass, shrimp paste, and chili oil. Recipe curated by Tony Nguyen.
 
 ### Ingredients
 - 1 lb beef shank
@@ -322,7 +322,7 @@ output:
 11. Enjoy your flavorful and spicy Bun Bo Hue soup!
 
 ## Com Special
-> Karden's Com Special is a beloved childhood meal consisting of rice topped with hotdog (and optional spam), drizzled with Kewpie Mayo and soy sauce. This delightful and simple dish holds a special place in Karden's heart, providing a comforting and satisfying meal that brings back fond memories of his youth.
+> Karden's Com Special is a beloved childhood meal consisting of rice topped with hotdog (and optional spam), drizzled with Kewpie Mayo and soy sauce. This delightful and simple dish holds a special place in Karden's heart, providing a comforting and satisfying meal that brings back fond memories of his youth. Recipe curated by Karden Tran.
 
 ### Ingredients
 - Rice
@@ -347,7 +347,7 @@ output:
 ## Red Guajillo Salsa
 ![](pics/Salsa.jpg)
 
-> A vibrant and flavorful Mexican salsa made with rehydrated guajillo chilies, tomatoes, garlic, onions, and spices. It offers a slightly smoky and tangy taste with a hint of heat, perfect for adding a burst of flavor to tacos, grilled meats, or as a dipping sauce.
+> A vibrant and flavorful Mexican salsa made with rehydrated guajillo chilies, tomatoes, garlic, onions, and spices. It offers a slightly smoky and tangy taste with a hint of heat, perfect for adding a burst of flavor to tacos, grilled meats, or as a dipping sauce. Recipe curated by Nhu Vuong.
 
 ### Ingredients
 - 6 dried guajillo chillis: washed and soaked in water to rehydrate
@@ -366,7 +366,7 @@ output:
 2. Blend with cilantro and season to taste. Enjoy!
 
 ## Refried Bean Dip
-> A flavorful and creamy dip made primarily with refried beans as the base ingredient. It is often served as an appetizer or party dip and is popular in Mexican cuisine.
+> A flavorful and creamy dip made primarily with refried beans as the base ingredient. It is often served as an appetizer or party dip and is popular in Mexican cuisine. Recipe curated by Nhu Vuong.
 
 ### Ingredients
 - 1 can refried beans
@@ -390,12 +390,44 @@ output:
 2. Bake 400 for 15 mins.
 3. Grab some chips. Enjoy!
 
+
+## Ngoc's Curry
+![](pics/Ngoc_Curry.jpg)
+
+> A flavorful and hearty curry dish with tender beef cubes, potatoes, and onions, infused with aromatic spices. This recipe by Ngoc Vuong is easy to prepare and perfect for a comforting meal. Enjoy it with steamed rice.
+
+### Ingredients:
+- 2 packets of S&B Golden Curry (medium hot or hotter)
+- 4 potatoes
+- 1/2 large white onion
+- A ziplock bag’s worth of beef cubes
+- 2 tablespoons butter
+- 2 tablespoons oil
+- Seasonings:
+  - 1 teaspoon cumin
+  - 1/2 teaspoon black pepper
+  - 1/2 teaspoon Korean chili powder
+  - 2 teaspoons assi beef flavor soup stock powder
+  - 1/2 teaspoon garlic powder
+  - 1/2 teaspoon onion powder
+  - 1/2 teaspoon oregano
+
+### Steps:
+1. Wash and peel off the potatoes. Cut them into cubes.
+2. Thinly slice the onion.
+3. Pan fry the potatoes and onion in a mix of butter and oil. After they have slightly crisped up, add in all the seasonings, except for the beef flavor soup stock powder and black pepper.
+4. Once the onion and potatoes have crisped up and caramelized, add in the beef cubes. Season with the beef flavor soup stock powder (two spoons), black pepper, cumin, and the other seasonings. Mix everything together.
+5. Place the two curry packets in a pot of boiling water for several minutes.
+6. Once the beef has been cooked and the curry packets are very hot, pour the curry into the pan. Place on low heat and keep mixing it up.
+7. Add extra seasoning, specifically Korean chili powder and black pepper.
+8. Serve with steamed rice. Enjoy!
+
 # American Cuisine
 
 ## Tuna Sandwich
 ![](pics/Tuna_Sandwich.jpg)
 
-> A tuna sandwich is a classic and versatile dish consisting of a filling made from canned tuna mixed with mayonnaise and other ingredients, served between slices of bread. It offers a satisfying blend of flavors and textures, making it a popular choice for a quick and delicious meal or snack. Recipe curated by Tony Nguyen
+> A classic and versatile dish consisting of a filling made from canned tuna mixed with mayonnaise and other ingredients, served between slices of bread. It offers a satisfying blend of flavors and textures, making it a popular choice for a quick and delicious meal or snack. Recipe curated by Tony Nguyen
 
 ### Ingredients
 - Sour Wheat Bread (Bought from Costco)
@@ -416,8 +448,8 @@ output:
 6. Add some lettuce on top then some more Kewpie mayo.
 7. Finish off with the other toasted slice of bread and cut into triagles. Enjoy!
 
-## Medium Rare Steak
-> A perfectly cooked medium-rare steak is a tender and juicy delight. Seasoned with salt and black pepper, it offers a mouthwatering balance of flavors and a pink, slightly warm center that's sure to satisfy steak enthusiasts.
+## Simple Medium Rare Steak (Tony Style)
+> A perfectly cooked medium-rare steak is a tender and juicy delight. Seasoned with salt and black pepper, it offers a mouthwatering balance of flavors and a pink, slightly warm center that's sure to satisfy steak enthusiasts. Recipe curated by Tony Nguyen.
 
 ### Ingredients:
 - 1 medium-sized steak (such as ribeye, striploin, or tenderloin)
@@ -435,7 +467,7 @@ output:
 
 
 ## Baked Corned Beef
-> Baked Corned Beef is a flavorful dish made from a pack of flat-cut corned beef brisket, seasoned with its accompanying packet. This tender and delicious meat is baked to perfection, creating a mouthwatering meal that can be enjoyed sliced and served hot.
+> Baked Corned Beef is a flavorful dish made from a pack of flat-cut corned beef brisket, seasoned with its accompanying packet. This tender and delicious meat is baked to perfection, creating a mouthwatering meal that can be enjoyed sliced and served hot. Recipe curated by Nhu Vuong.
 
 ### Ingredients
 - 1 pack of Flat Cut Corned Beef Brisket (with seasoning packet inside)
@@ -454,7 +486,7 @@ output:
 # Italian Cuisine
 
 ## Chicken Alfredo Pasta
-> A classic Italian dish featuring tender chicken pieces and fettuccine pasta tossed in a creamy Alfredo sauce. This recipe is rich, comforting, and perfect for pasta lovers.
+> A classic Italian dish featuring tender chicken pieces and fettuccine pasta tossed in a creamy Alfredo sauce. This recipe is rich, comforting, and perfect for pasta lovers. Recipe curated by Tony Nguyen.
 
 ### Ingredients
 - 1 lb boneless, skinless chicken breasts, cut into strips
@@ -477,7 +509,7 @@ output:
 # Chinese Cuisine
 
 ## Vegetable Stir-Fry
-> A quick and healthy dish packed with colorful vegetables and tossed in a flavorful stir-fry sauce. This recipe is versatile and allows you to customize the vegetables based on your preferences.
+> A quick and healthy dish packed with colorful vegetables and tossed in a flavorful stir-fry sauce. This recipe is versatile and allows you to customize the vegetables based on your preferences. Recipe curated by Tony Nguyen.
 
 ### Ingredients
 - 2 cups mixed vegetables (e.g., bell peppers, broccoli florets, carrots, snap peas)
@@ -503,7 +535,7 @@ output:
 9. Enjoy your delicious vegetable stir-fry!
 
 ## Veggie Dip
-> Veggie dip is a creamy and flavorful condiment perfect for enjoying with fresh vegetables. Its combination of herbs, spices, and tangy ingredients adds a delicious twist to raw veggies, making it a popular and healthy snack option.
+> Veggie dip is a creamy and flavorful condiment perfect for enjoying with fresh vegetables. Its combination of herbs, spices, and tangy ingredients adds a delicious twist to raw veggies, making it a popular and healthy snack option. Recipe curated by Nhung Vuong.
 
 ### Ingredients
 - 2 packs of cream cheese
@@ -521,7 +553,7 @@ output:
 # Thai Cuisine
 
 ## Papaya Salad
-> Papaya Salad with Shrimp and Squid is a refreshing and vibrant dish that combines the crispiness of green papaya with tender seafood. The combination of tangy flavors from lime juice, fish sauce, and chili creates a perfect balance in this Thai-inspired salad.
+> Papaya Salad with Shrimp and Squid is a refreshing and vibrant dish that combines the crispiness of green papaya with tender seafood. The combination of tangy flavors from lime juice, fish sauce, and chili creates a perfect balance in this Thai-inspired salad. Recipe curated by Di Bah.
 
 ### Ingredients
 - Salad portion of shredded Papaya
@@ -547,7 +579,7 @@ output:
 # Korean Cuisine
 
 ## Gochujang Alfredo Pasta
-> A flavorful and creamy dish featuring penne pasta tossed in a spicy and tangy sauce made with gochujang and alfredo sauce. Served with seared chicken and garnished with green onions, it's a satisfying and delicious meal option. Meal created by Nhu Vuong
+> A flavorful and creamy dish featuring penne pasta tossed in a spicy and tangy sauce made with gochujang and alfredo sauce. Served with seared chicken and garnished with green onions, it's a satisfying and delicious meal option. Recipe curated by Nhu Vuong.
 
 ### Ingredients:
 - 8 oz (225 g) penne pasta
