@@ -342,6 +342,37 @@ output:
 7. Drizzle Kewpie Mayo and soy sauce over the rice and hotdog.
 8. Mix everything together to ensure the flavors are well combined. Enjoy!
 
+## Ngoc's Curry
+![](pics/Ngoc_Curry.jpg)
+
+> A flavorful and hearty curry dish with tender beef cubes, potatoes, and onions, infused with aromatic spices. This recipe by Ngoc Vuong is easy to prepare and perfect for a comforting meal. Enjoy it with steamed rice.
+
+### Ingredients:
+- 2 packets of S&B Golden Curry (medium hot or hotter)
+- 4 potatoes
+- 1/2 large white onion
+- A ziplock bag’s worth of beef cubes
+- 2 tablespoons butter
+- 2 tablespoons oil
+- Seasonings:
+  - 1 teaspoon cumin
+  - 1/2 teaspoon black pepper
+  - 1/2 teaspoon Korean chili powder
+  - 2 teaspoons assi beef flavor soup stock powder
+  - 1/2 teaspoon garlic powder
+  - 1/2 teaspoon onion powder
+  - 1/2 teaspoon oregano
+
+### Steps:
+1. Wash and peel off the potatoes. Cut them into cubes.
+2. Thinly slice the onion.
+3. Pan fry the potatoes and onion in a mix of butter and oil. After they have slightly crisped up, add in all the seasonings, except for the beef flavor soup stock powder and black pepper.
+4. Once the onion and potatoes have crisped up and caramelized, add in the beef cubes. Season with the beef flavor soup stock powder (two spoons), black pepper, cumin, and the other seasonings. Mix everything together.
+5. Place the two curry packets in a pot of boiling water for several minutes.
+6. Once the beef has been cooked and the curry packets are very hot, pour the curry into the pan. Place on low heat and keep mixing it up.
+7. Add extra seasoning, specifically Korean chili powder and black pepper.
+8. Serve with steamed rice. Enjoy!
+
 # Hispanic Cuisine
 
 ## Red Guajillo Salsa
@@ -389,38 +420,6 @@ output:
 1. Mix ingredients together, pour into baking tray, top with cheese.
 2. Bake 400 for 15 mins.
 3. Grab some chips. Enjoy!
-
-
-## Ngoc's Curry
-![](pics/Ngoc_Curry.jpg)
-
-> A flavorful and hearty curry dish with tender beef cubes, potatoes, and onions, infused with aromatic spices. This recipe by Ngoc Vuong is easy to prepare and perfect for a comforting meal. Enjoy it with steamed rice.
-
-### Ingredients:
-- 2 packets of S&B Golden Curry (medium hot or hotter)
-- 4 potatoes
-- 1/2 large white onion
-- A ziplock bag’s worth of beef cubes
-- 2 tablespoons butter
-- 2 tablespoons oil
-- Seasonings:
-  - 1 teaspoon cumin
-  - 1/2 teaspoon black pepper
-  - 1/2 teaspoon Korean chili powder
-  - 2 teaspoons assi beef flavor soup stock powder
-  - 1/2 teaspoon garlic powder
-  - 1/2 teaspoon onion powder
-  - 1/2 teaspoon oregano
-
-### Steps:
-1. Wash and peel off the potatoes. Cut them into cubes.
-2. Thinly slice the onion.
-3. Pan fry the potatoes and onion in a mix of butter and oil. After they have slightly crisped up, add in all the seasonings, except for the beef flavor soup stock powder and black pepper.
-4. Once the onion and potatoes have crisped up and caramelized, add in the beef cubes. Season with the beef flavor soup stock powder (two spoons), black pepper, cumin, and the other seasonings. Mix everything together.
-5. Place the two curry packets in a pot of boiling water for several minutes.
-6. Once the beef has been cooked and the curry packets are very hot, pour the curry into the pan. Place on low heat and keep mixing it up.
-7. Add extra seasoning, specifically Korean chili powder and black pepper.
-8. Serve with steamed rice. Enjoy!
 
 # American Cuisine
 
