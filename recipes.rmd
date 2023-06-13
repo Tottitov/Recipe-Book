@@ -347,7 +347,7 @@ output:
 
 > A flavorful and hearty curry dish with tender beef cubes, potatoes, and onions, infused with aromatic spices. This recipe by Ngoc Vuong is easy to prepare and perfect for a comforting meal. Enjoy it with steamed rice.
 
-### Ingredients:
+### Ingredients
 - 2 packets of S&B Golden Curry (medium hot or hotter)
 - 4 potatoes
 - 1/2 large white onion
@@ -363,7 +363,7 @@ output:
   - 1/2 teaspoon onion powder
   - 1/2 teaspoon oregano
 
-### Steps:
+### Instructions
 1. Wash and peel off the potatoes. Cut them into cubes.
 2. Thinly slice the onion.
 3. Pan fry the potatoes and onion in a mix of butter and oil. After they have slightly crisped up, add in all the seasonings, except for the beef flavor soup stock powder and black pepper.
