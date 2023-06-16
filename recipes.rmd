@@ -342,10 +342,10 @@ output:
 7. Drizzle Kewpie Mayo and soy sauce over the rice and hotdog.
 8. Mix everything together to ensure the flavors are well combined. Enjoy!
 
-## Ngoc's Curry
+## Beef Curry
 ![](pics/Ngoc_Curry.jpg)
 
-> A flavorful and hearty curry dish with tender beef cubes, potatoes, and onions, infused with aromatic spices. This recipe by Ngoc Vuong is easy to prepare and perfect for a comforting meal. Enjoy it with steamed rice.
+> Indulge in the rich and fragrant flavors of this tantalizing beef curry dish by Ngoc Vuong. Tender beef cubes, accompanied by perfectly cooked potatoes and onions, are enveloped in a medley of aromatic spices, creating a dish that is both satisfying and comforting. Easy to prepare and guaranteed to please your taste buds, this curry is best savored with a side of steamed rice, offering a truly delightful dining experience.
 
 ### Ingredients
 - 2 packets of S&B Golden Curry (medium hot or hotter)
@@ -372,6 +372,28 @@ output:
 6. Once the beef has been cooked and the curry packets are very hot, pour the curry into the pan. Place on low heat and keep mixing it up.
 7. Add extra seasoning, specifically Korean chili powder and black pepper.
 8. Serve with steamed rice. Enjoy!
+
+## Homemade Chili Oil
+![](pics/Chili_Oil.jpg)
+
+> A delightful condiment created by Nhung Vuong, this homemade chili oil recipe features a fragrant blend of chili flakes, minced garlic, and sesame seeds, infused into a rich and aromatic oil base. Perfect for adding a spicy kick to your favorite dishes, this chili oil is a versatile and flavorful addition to your pantry.
+
+### Ingredients
+- 1 and 3/4 cup oil (corn or vegetable oil)
+- 1 cup chili flakes
+- 3 tsp sesame seeds
+- Diced peanuts (optional)
+- 1/4 cup minced garlic
+- 1 tsp salt (optional)
+
+### Instructions
+1. Gently heat the oil on low for approximately 5 minutes until it reaches a temperature of 240-260 degrees F.
+2. Add the minced garlic and cook until it turns a light golden brown, being careful not to overcook it.
+3. Introduce optional diced peanuts and sesame seeds, then stir the mixture.
+4. Once the garlic achieves its desired color, remove the oil from heat.
+5. Avoid vigorous bubbling of the oil, as it may cause the chili flakes to burn.
+6. After removing from heat, add the chili flakes to the oil and stir for about 35 seconds.
+7. Allow the chili oil to cool, then transfer it to a suitable container. Enjoy!
 
 # Hispanic Cuisine
 
